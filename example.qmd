@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-This is a conflicting change on main branch.
+Fixed the conflict 
 
 ## Quarto
 
